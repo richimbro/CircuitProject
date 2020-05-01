@@ -130,5 +130,143 @@ end TCL_Generic;
     <a name="clabelfont" val="SansSerif bold 16"/>
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
+    <wire from="(270,480)" to="(330,480)"/>
+    <wire from="(600,500)" to="(600,510)"/>
+    <wire from="(570,250)" to="(620,250)"/>
+    <wire from="(160,120)" to="(160,130)"/>
+    <wire from="(140,70)" to="(580,70)"/>
+    <wire from="(560,550)" to="(620,550)"/>
+    <wire from="(590,400)" to="(590,470)"/>
+    <wire from="(590,260)" to="(590,330)"/>
+    <wire from="(300,280)" to="(300,300)"/>
+    <wire from="(670,420)" to="(710,420)"/>
+    <wire from="(160,520)" to="(160,670)"/>
+    <wire from="(560,330)" to="(560,550)"/>
+    <wire from="(160,520)" to="(330,520)"/>
+    <wire from="(620,180)" to="(620,210)"/>
+    <wire from="(580,70)" to="(580,150)"/>
+    <wire from="(120,130)" to="(160,130)"/>
+    <wire from="(330,150)" to="(430,150)"/>
+    <wire from="(590,180)" to="(590,260)"/>
+    <wire from="(480,500)" to="(580,500)"/>
+    <wire from="(570,230)" to="(570,250)"/>
+    <wire from="(120,500)" to="(220,500)"/>
+    <wire from="(410,620)" to="(450,620)"/>
+    <wire from="(90,130)" to="(120,130)"/>
+    <wire from="(600,510)" to="(620,510)"/>
+    <wire from="(670,490)" to="(700,490)"/>
+    <wire from="(670,570)" to="(700,570)"/>
+    <wire from="(670,230)" to="(700,230)"/>
+    <wire from="(590,470)" to="(620,470)"/>
+    <wire from="(40,130)" to="(60,130)"/>
+    <wire from="(560,550)" to="(560,670)"/>
+    <wire from="(140,460)" to="(220,460)"/>
+    <wire from="(160,670)" to="(560,670)"/>
+    <wire from="(160,120)" to="(170,120)"/>
+    <wire from="(160,160)" to="(170,160)"/>
+    <wire from="(580,440)" to="(580,500)"/>
+    <wire from="(200,320)" to="(210,320)"/>
+    <wire from="(580,500)" to="(580,690)"/>
+    <wire from="(300,320)" to="(300,380)"/>
+    <wire from="(520,540)" to="(520,590)"/>
+    <wire from="(120,500)" to="(120,690)"/>
+    <wire from="(390,240)" to="(460,240)"/>
+    <wire from="(350,300)" to="(420,300)"/>
+    <wire from="(580,150)" to="(700,150)"/>
+    <wire from="(450,550)" to="(450,620)"/>
+    <wire from="(140,70)" to="(140,460)"/>
+    <wire from="(520,250)" to="(570,250)"/>
+    <wire from="(220,140)" to="(280,140)"/>
+    <wire from="(210,260)" to="(590,260)"/>
+    <wire from="(200,310)" to="(200,320)"/>
+    <wire from="(430,140)" to="(430,150)"/>
+    <wire from="(420,290)" to="(420,300)"/>
+    <wire from="(490,140)" to="(490,150)"/>
+    <wire from="(280,130)" to="(280,140)"/>
+    <wire from="(120,380)" to="(300,380)"/>
+    <wire from="(590,330)" to="(590,400)"/>
+    <wire from="(390,240)" to="(390,390)"/>
+    <wire from="(580,440)" to="(620,440)"/>
+    <wire from="(480,290)" to="(480,310)"/>
+    <wire from="(520,590)" to="(620,590)"/>
+    <wire from="(210,260)" to="(210,280)"/>
+    <wire from="(280,230)" to="(570,230)"/>
+    <wire from="(490,180)" to="(590,180)"/>
+    <wire from="(260,300)" to="(300,300)"/>
+    <wire from="(380,500)" to="(420,500)"/>
+    <wire from="(410,390)" to="(450,390)"/>
+    <wire from="(480,540)" to="(520,540)"/>
+    <wire from="(410,390)" to="(410,620)"/>
+    <wire from="(490,150)" to="(580,150)"/>
+    <wire from="(480,310)" to="(700,310)"/>
+    <wire from="(520,250)" to="(520,540)"/>
+    <wire from="(580,500)" to="(600,500)"/>
+    <wire from="(560,330)" to="(590,330)"/>
+    <wire from="(160,160)" to="(160,520)"/>
+    <wire from="(390,390)" to="(410,390)"/>
+    <wire from="(590,400)" to="(620,400)"/>
+    <wire from="(590,180)" to="(620,180)"/>
+    <wire from="(70,620)" to="(410,620)"/>
+    <wire from="(120,310)" to="(200,310)"/>
+    <wire from="(450,340)" to="(450,390)"/>
+    <wire from="(120,130)" to="(120,310)"/>
+    <wire from="(460,190)" to="(460,240)"/>
+    <wire from="(120,690)" to="(580,690)"/>
+    <wire from="(480,330)" to="(560,330)"/>
+    <wire from="(110,380)" to="(120,380)"/>
+    <wire from="(280,170)" to="(280,230)"/>
+    <wire from="(120,380)" to="(120,500)"/>
+    <comp lib="1" loc="(90,130)" name="NOT Gate"/>
+    <comp lib="0" loc="(40,130)" name="Pin"/>
+    <comp lib="1" loc="(220,140)" name="AND Gate"/>
+    <comp lib="0" loc="(70,620)" name="Clock"/>
+    <comp lib="4" loc="(430,490)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(270,480)" name="AND Gate"/>
+    <comp lib="4" loc="(430,280)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(330,150)" name="OR Gate"/>
+    <comp lib="4" loc="(440,130)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(700,150)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="R1"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(700,230)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="A1"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(700,310)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="R2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(700,490)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="G1"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(700,570)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="G2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(670,230)" name="AND Gate"/>
+    <comp lib="1" loc="(670,570)" name="AND Gate"/>
+    <comp lib="1" loc="(670,420)" name="AND Gate"/>
+    <comp lib="0" loc="(710,420)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="A2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(670,490)" name="AND Gate"/>
+    <comp lib="1" loc="(260,300)" name="AND Gate"/>
+    <comp lib="1" loc="(350,300)" name="OR Gate"/>
+    <comp lib="1" loc="(380,500)" name="OR Gate"/>
   </circuit>
 </project>
