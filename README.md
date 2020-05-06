@@ -8,19 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
-Team Member 1:
-Team Member 2:
+Team Member 1: Richard Imbro
+Team Member 2: Anthony Goncalves
 
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < Our program creates 2 stoplights that are in sync and have busy and quiet states as well as 5 other states in which the stop lights are consistently in harmony. >
 
 ## GRACE DAYS
  You **CANNOT** use grace days for this assignment
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < N/A >
 
 ## REFERENCES:
- < List any outside resources used >
+ < N/A >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < N/A >
